@@ -1,6 +1,6 @@
 # Checking human life in weeks
 #
-age = input("Please enter your age : ")
+age = input("Please enter your current age? ")
 #
 # Checking the remaining weeks and years nd months
 #
