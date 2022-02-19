@@ -2,6 +2,7 @@
 
 name = "Python"
 print(f"welcome to the new {name} tutorials")
+print(type(name))
 
 
 def my_fun():
