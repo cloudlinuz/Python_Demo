@@ -1,7 +1,7 @@
 # Checking human life in weeks
-
+#
 age = input("Please enter your age : ")
-
+#
 # Checking the remaining weeks and years nd months
 
 remaining_years = 90 - int(age)
