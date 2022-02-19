@@ -3,7 +3,7 @@
 age = input("Please enter your age : ")
 #
 # Checking the remaining weeks and years nd months
-
+#
 remaining_years = 90 - int(age)
 remaining_weeks = remaining_years * 52
 remaining_days = remaining_years * 365
