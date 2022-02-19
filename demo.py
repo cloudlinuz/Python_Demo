@@ -2,3 +2,11 @@
 
 name = "Python"
 print(f"welcome to the new {name} tutorials")
+
+
+def my_fun():
+    print("This is the simple function")
+    print(f"Name of the function is {name}")
+
+
+my_fun()
