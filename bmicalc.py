@@ -13,7 +13,7 @@ weight_value = int(weight)
 
 print(type(height_value))
 print(type(weight_value))
-
+#
 bmi = weight_value / height_value ** 2
 bmi_value = round(bmi, 1)
 print(f"Your BMI value is : {bmi_value}")
